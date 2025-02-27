@@ -6,5 +6,11 @@ public class Main {
         meuFilme.duracaoEmMinutos = 180;
 
         meuFilme.exibirFichaTecnica();
+        meuFilme.avalia(9);
+        meuFilme.avalia(10);
+        meuFilme.avalia(10);
+
+        System.out.println(meuFilme.getTotalDeAvaliacoes());
+        System.out.println(meuFilme.pegaMedia());
     }
 }
