@@ -5,6 +5,15 @@ public class Serie extends Titulo{
     private boolean ativa;
     private int EpisodiosPorTemporada;
     private int minutosPorEpisodio;
+    private int totalVizualizacoes;
+
+    public int getTotalVizualizacoes() {
+        return totalVizualizacoes;
+    }
+
+    public void setTotalVizualizacoes(int totalVizualizacoes) {
+        this.totalVizualizacoes = totalVizualizacoes;
+    }
 
     public int getTemporadas() {
         return temporadas;
