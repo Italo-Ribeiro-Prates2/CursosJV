@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6b6d49f5-45f8-4986-acb6-6fd9605803a6" name="Changes" comment="finalizado" />
+=======
+    <list default="true" id="f65b9f70-239e-4ede-b866-d4912e6d241a" name="Changes" comment="tomara q n de merda kkk" />
+>>>>>>> 057e3233bbcaeea4c1b97596cbb79bb3e1092748
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -40,6 +45,27 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Italo-Ribeiro-Prates2"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Italo-Ribeiro-Prates2/CursosAlura.git&quot;,
+    &quot;accountId&quot;: &quot;8a5e43fa-784b-4883-95ca-08e78cdc4b7a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2tUnPU7Lj1mpmNNZ3iufyixlbYq" />
+>>>>>>> 057e3233bbcaeea4c1b97596cbb79bb3e1092748
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,6 +75,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+<<<<<<< HEAD
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Alura/CursosAlura/JavaPOO",
     "project.structure.last.edited": "Project",
@@ -84,12 +111,43 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1740703260949</updated>
+=======
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/ProjetosJV/CursoAlura/JavaPOO",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f65b9f70-239e-4ede-b866-d4912e6d241a" name="Changes" comment="" />
+      <created>1740415562502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740415562502</updated>
+    </task>
+    <task id="LOCAL-00001" summary="tomara q n de merda kkk">
+      <option name="closed" value="true" />
+      <created>1740686643563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740686643563</updated>
+>>>>>>> 057e3233bbcaeea4c1b97596cbb79bb3e1092748
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="finalizado" />
     <option name="LAST_COMMIT_MESSAGE" value="finalizado" />
+=======
+    <MESSAGE value="tomara q n de merda kkk" />
+    <option name="LAST_COMMIT_MESSAGE" value="tomara q n de merda kkk" />
+>>>>>>> 057e3233bbcaeea4c1b97596cbb79bb3e1092748
   </component>
 </project>
