@@ -50,5 +50,22 @@ public class Principal {
         episodio.setSerie(lost);
         episodio.setTotalVisualizacoes(300);
         filtro.filtra(episodio);
+
+        Filme filmeDoItalo = new Filme();
+        filmeDoItalo.setNome("As Branquelas");
+        filmeDoItalo.setAnoDeLancamento(2004);
+        filmeDoItalo.setDuracaoEmMinutos(100);
+
+
+
+        ArrayList<Filme> listaDeFilmes = new ArrayList<>();
+        listaDeFilmes.add(meuFilme);
+        listaDeFilmes.add(outroFilme);
+        listaDeFilmes.add(filmeDoItalo);
+
+        System.out.println("Tamanho da lista: " + listaDeFilmes.size());
+        System.out.println("Primeiro filme da lista: " + listaDeFilmes.get(0).getNome());
+        System.out.println(listaDeFilmes);
+        System.out.println("ToStrig do filme " + listaDeFilmes.get(0).toString());
     }
 }
