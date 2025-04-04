@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório!
 
 Este repositório foi criado para armazenar os projetos e exercícios dos cursos que estou realizando na [Alura](https://www.alura.com.br/) sobre **Java**. Meu objetivo é aprofundar meus conhecimentos em **Programação Orientada a Objetos (POO)** e outras tecnologias relacionadas a essa linguagem.
 
-##Branch
+## Branch
 
 Cada branch abordará um conteúdo diferente.
 
